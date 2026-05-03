@@ -32,7 +32,8 @@
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskibetbrian&theme=dark&hide_border=true&show_icons=true&icon_color=1A6EFF&title_color=1A6EFF&bg_color=0d1117)](https://github.com/itskibetbrian)
+<!-- github-readme-streak-stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=itskibetbrian&theme=dark)](https://github.com/itskibetbrian)
 
 </div>
 
