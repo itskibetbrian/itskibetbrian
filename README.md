@@ -33,7 +33,7 @@
 ### GitHub Stats
 
 <!-- github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=itskibetbrian&theme=dark)](https://github.com/itskibetbrian)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itskibetbrian&theme=tokyonight)](https://github.com/itskibetbrian)
 
 </div>
 
