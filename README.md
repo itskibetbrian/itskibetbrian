@@ -15,13 +15,11 @@
   
   <img src="https://skillicons.dev/icons?i=python,ts,php,go,bash" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,motion" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,reactnative,expo" />
+  <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,swift,kotlin" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,redis,firebase" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=langchain,aws,docker,githubactions,vercel,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,linux,git" />
 </div>
 
 </div>
